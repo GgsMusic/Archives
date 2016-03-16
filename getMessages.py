@@ -5,4 +5,11 @@ s.bind(("",port))
 print('waiting on port:',port)
 while True:
 	data, addr = s.recvfrom(1024)
-	print("Messages:", data, addr)
+	print("Messages:", data, addr
+
+
+
+
+
+
+#testing...)
